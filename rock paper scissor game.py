@@ -27,6 +27,5 @@ def play_game():
     
     result = determine_winner(player_choice, computer_choice)
     print(result)
-
-# Start the game
+    
 play_game()
